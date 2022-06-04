@@ -8,11 +8,3 @@ location.reload();
 }
 
 login('TOKEN_IN_HERE')
-
-
-
-
-
-
-
-#If you tried to login but it didn't worked you have to spam it in the console because of discord's new gay update.
